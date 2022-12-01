@@ -1,0 +1,4 @@
+Polygon Wallet 🪙
+Polygon Wallet is a non custodial web wallet which allows users to send/receive the crypto assets, stake MATIC and also access the Polygon Bridge. Note: Any ERC-20 compatible wallet can hold MATIC. 
+Polygon Bridge 🌉
+Polygon Bridge acts a trustless path back and forth between the Ethereum Chain and the Polygon Chain. Users can quickly send their funds back and forth with a compatible wallet. 
