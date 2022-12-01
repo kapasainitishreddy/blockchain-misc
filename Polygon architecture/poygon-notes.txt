@@ -1,0 +1,45 @@
+-->Jayant Kanani, Sandeep Nailwal and Anurag Arjun established the open-source decentralized 
+blockchain network Polygon, originally known as the Matic network, in 2017
+
+-->Polygon is an L2 or Layer 2 scaling solution for Ethereum. It helps reduces cost, improves 
+scalability and speed by acting as a child chain to the Ethereum Blockchain.MATIC, which is used
+ to control and secure the network, is Polygon's native token. Users can communicate with the 
+ hundreds of dApps that make up the Polygon ecosystem using this currency.
+
+-->The key features of Polygon Blockchain
+ 
+1. Polygon is a Proof of Stake blockchain technology i.e. a consensus algorithm based on which the whole network works
+Proof-of-stake protocols are a group of blockchain consensus algorithms that choose validators based on how much of the linked cryptocurrency they own. This is done to circumvent proof-of-work techniques' high computational costs.
+2. Polygon is not a sidechain but a plasma chain to the Ethereum Network
+A plasma chain is a unique blockchain that is connected to the Ethereum Mainnet but runs transactions off-chain and has its own system for validating blocks. Plasma chains, which are effectively scaled-down versions of the Ethereum Mainnet, are frequently referred to as "child" chains.
+3. Polygon solves Ethereum’s low transaction speed as well as high computational power problem
+Polygon network can scale up to 65K transactions per second
+4. Polygon supports EVM, that is you can write your smart contracts using Solidity
+After each new block is added to the chain, the Ethereum Virtual Machine, also known as the EVM, computes the state of the Ethereum network and executes smart contracts. The hardware layer and node network layer of Ethereum are on top of the EVM. Furthermore, Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms.
+5. The validators of the Polygon Network are also stakers on the network
+So basically, every validator will have to be a good player to avoid any penalty on their stake.
+6. Polygon support gas-less NFT minting
+This is a great feature for someone who wants to get into the NFT space at a minimal cost.
+
+
+Polygon 💠	                                             Ethereum 💎
+Polygon is a Layer 2 blockchain network	                Ethereum is a Layer 1 blockchain network
+
+
+A Layer 2 blockchain network acts as a child to Layer 1	 Layer 1 is the base blockchain network and acts as a parent
+
+65,000 TPS	                                            |    13-15 TPS
+
+-->why does Ethereum need a scaling solution?Ethereum 1.0 had a transaction speed of 13-15 transactions per second and this was not sufficient for global scaling that’s why Ethereum needed scaling solutions and Polygon came into play. 
+Types of scaling solutions
+Sharding: This entails breaking the chain state into smaller units, referred to as shards. Therefore, all transactions that started inside of a shard must be processed by the nodes present there. Therefore, the network as a whole can be improved by reducing the number of nodes. That's what sharding is!
+
+Eg: It work exactly like Hadoop, suppose you have 100 TB of data and so you divide the data into 10 parts each having 10 TB on certain conditions like the category so now when you are looking for a particular data rather than spending time on the 100 TB data you can look for the particular part which is only 10 TB thus increasing your efficiency by 10X
+ 
+State Chain: In this approach, the process that is being worked on right now has priority, while the other operation is moved off-chain. The only thing sent to the main chain is the evidence. 
+Example: it works like an outsourcing model where you receive a project from your client but rather than doing it all by yourself, you outsource a certain part of your work from a third-party company and that company will send the completed work to you.
+ 
+Plasma: Plasma is an off-chain scaling strategy that mostly interacts with the off-chain and has little to no impact on the main chain.
+I think that's enough to outline the differences and also the need of Polygon as a blockchain. Now let's move to the next lesson where we will understand its role as a plasma chain, a type of L2 scaling solution.
+
+
